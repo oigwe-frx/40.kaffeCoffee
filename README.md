@@ -1,3 +1,3 @@
 # 40.kaffeCoffee
 
-![Homepage!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Homepage!](/kaffe_homepage.png "omepage - Kaffe Coffee")
